@@ -11,7 +11,9 @@ If you found this useful, you're welcome to support me on [Patreon](https://www.
 
 >The aim is for a fast, free, secure, configurable, and easy-to-use HTTP PHP server with OpenSwoole, where anyone can build their webserver from this template. More features, security, and examples will be added as the project progresses.
 
->Only webpages listed in the configuration can be accessed, so to enable a new page you just add it to the **$pages** array. In the future, regular expressions will be added. You can follow the configuration instructions below. I wouldn't recommend using this exact code on a public-facing server, unless you have made necessary modifications and checks for security.
+>Only webpages listed in the configuration can be accessed, so to enable a new page you just add it to the **$pages** array. In the future, regular expressions will be added. You can follow the configuration instructions below.
+
+>I wouldn't recommend using this exact code on a public-facing server, unless you have made necessary modifications and checks for security.
 
 >Please follow the installation instructions below to get started.
 
@@ -85,6 +87,8 @@ If you found this useful, you're welcome to support me on [Patreon](https://www.
 - Serve images
 - Add database (SQL, MySQL, SQLite) examples
 - Add HTTP client examples
+- Error checking
+- Run as daemon
 
 ## See Also
 
